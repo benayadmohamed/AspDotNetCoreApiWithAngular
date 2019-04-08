@@ -1,0 +1,16 @@
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\BackEnd.Views.dll
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\BackEnd.Views.pdb
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.deps.json
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.json
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.dev.json
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.dll
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.pdb
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\BackEnd.dll
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\bin\Debug\netcoreapp2.1\BackEnd.pdb
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csprojAssemblyReference.cache
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CoreCompileInputs.cache
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfoInputs.cache
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfo.cs
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CopyComplete
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.dll
+J:\projets\AspDotNet\core\WebCoreWithAngular\WebCoreWithAngular\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.pdb
