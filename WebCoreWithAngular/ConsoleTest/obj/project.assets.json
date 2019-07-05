@@ -8149,11 +8149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\WebCoreWithAngular\\ConsoleTest\\ConsoleTest.csproj",
+      "projectUniqueName": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\AspDotNetCoreApiWithAngular\\WebCoreWithAngular\\ConsoleTest\\ConsoleTest.csproj",
       "projectName": "ConsoleTest",
-      "projectPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\WebCoreWithAngular\\ConsoleTest\\ConsoleTest.csproj",
+      "projectPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\AspDotNetCoreApiWithAngular\\WebCoreWithAngular\\ConsoleTest\\ConsoleTest.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\WebCoreWithAngular\\ConsoleTest\\obj\\",
+      "outputPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\AspDotNetCoreApiWithAngular\\WebCoreWithAngular\\ConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8172,8 +8172,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\WebCoreWithAngular\\BackEnd\\BackEnd.csproj": {
-              "projectPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\WebCoreWithAngular\\BackEnd\\BackEnd.csproj"
+            "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\AspDotNetCoreApiWithAngular\\WebCoreWithAngular\\BackEnd\\BackEnd.csproj": {
+              "projectPath": "J:\\projets\\AspDotNet\\core\\WebCoreWithAngular\\AspDotNetCoreApiWithAngular\\WebCoreWithAngular\\BackEnd\\BackEnd.csproj"
             }
           }
         }

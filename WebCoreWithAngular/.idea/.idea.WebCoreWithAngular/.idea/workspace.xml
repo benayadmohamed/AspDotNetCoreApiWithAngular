@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="883693e9-b17e-4b93-b3f3-4be9a71be506" name="Default Changelist" comment="" />
+    <list default="true" id="883693e9-b17e-4b93-b3f3-4be9a71be506" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebCoreWithAngular/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackEnd/ClientApp/src/app/root-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebCoreWithAngular/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebCoreWithAngular/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebCoreWithAngular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebCoreWithAngular/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/BackEnd.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/BackEnd.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/ClientApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/BackEnd.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/ConsoleTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/ConsoleTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/ConsoleTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/ConsoleTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/ConsoleTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/ConsoleTest.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/ConsoleTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/ConsoleTest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/Debug/netcoreapp2.1/ConsoleTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleTest/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,73 +66,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/Startup.cs">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-              <folding>
-                <marker date="1554756566853" expanded="true" signature="6:414" ph="..." />
-                <marker date="1554756566853" expanded="true" signature="433:3072" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="460:3070" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="519:582" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="805:1912" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="1277:1900" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="1402:1881" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2100:3064" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2147:2224" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2241:2320" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2464:2630" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2663:3052" ph="{...}" />
-                <marker date="1554756566853" expanded="true" signature="2694:2840" ph="/* To learn more about options for serving an Angular SPA from ASP.NET Core, ... */" />
-                <marker date="1554756566853" expanded="true" signature="2937:3038" ph="{...}" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/BackEnd.csproj">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/Controllers/BooksController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-              <folding>
-                <marker date="1554762961098" expanded="true" signature="6:129" ph="..." />
-                <marker date="1554762961098" expanded="true" signature="160:1433" ph="{...}" />
-                <marker date="1554762961098" expanded="true" signature="240:1431" ph="{...}" />
-                <marker date="1554762961098" expanded="true" signature="314:815" ph="{...}" />
-                <marker date="1554762961098" expanded="true" signature="429:768" ph="{...}" />
-                <marker date="1554762961098" expanded="true" signature="924:1425" ph="{...}" />
-                <marker date="1554762961098" expanded="true" signature="1039:1378" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/Models/Book.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-              <folding>
-                <marker date="1554755857021" expanded="true" signature="24:196" ph="{...}" />
-                <marker date="1554755857021" expanded="true" signature="48:194" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BackEnd/Controllers/TokenController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="1092">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
               <folding>
-                <marker date="1554763056703" expanded="true" signature="6:362" ph="..." />
+                <marker date="1554763056703" expanded="false" signature="6:362" ph="..." />
                 <marker date="1554763056703" expanded="true" signature="393:2353" ph="{...}" />
                 <marker date="1554763056703" expanded="true" signature="473:2351" ph="{...}" />
                 <marker date="1554763056703" expanded="true" signature="641:731" ph="{...}" />
@@ -124,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/appsettings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="234">
               <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
@@ -133,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConsoleTest/ConsoleTest.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="260">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -142,35 +115,87 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/Properties/launchSettings.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            <state relative-caret-position="234">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/user-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/user.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/services/token.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-339">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/root-routing.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BackEnd/Controllers/TokenController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackEnd/Models/RequestAuth.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackEnd/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7CF6354-FDBD-4D4A-8E1F-5A0D0DEB310C/dd/6c47637c/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackEnd/Data/MyDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED07561A-F00F-4966-8EBC-547EA3E7CE17/87/fdedfa83/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackEnd/Controllers/SampleDataController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackEnd/Models/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackEnd/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackEnd/Controllers/BooksController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Controllers/TokenController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Data/MyDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackEnd/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackEnd/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Models/RequestAuth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackEnd/Models/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/WebCoreWithAngular.sln" />
-        <option value="$PROJECT_DIR$/BackEnd/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/BackEnd/Data/WebWithRaozrPageContext.cs" />
         <option value="$PROJECT_DIR$/BackEnd/BackEnd.csproj" />
         <option value="$PROJECT_DIR$/ConsoleTest/ConsoleTest.csproj" />
@@ -183,6 +208,12 @@
         <option value="$PROJECT_DIR$/BackEnd/appsettings.json" />
         <option value="$PROJECT_DIR$/BackEnd/Controllers/BooksController.cs" />
         <option value="$PROJECT_DIR$/BackEnd/Controllers/TokenController.cs" />
+        <option value="$PROJECT_DIR$/BackEnd/ClientApp/package.json" />
+        <option value="$PROJECT_DIR$/BackEnd/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/user-routing.module.ts" />
+        <option value="$PROJECT_DIR$/BackEnd/ClientApp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/BackEnd/ClientApp/src/app/root-routing.module.ts" />
+        <option value="$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/services/token.service.ts" />
       </list>
     </option>
   </component>
@@ -191,8 +222,11 @@
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="false" />
+      <autoscrollFromSource SolutionExplorer="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -209,47 +243,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
               <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BackEnd" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WebCoreWithAngular" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ConsoleTest" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -268,8 +261,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="ts.external.directory.path" value="F:\systeme\JetBrains Rider 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="J:\projets\AspDotNet\core\WebCoreWithAngular\AspDotNetCoreApiWithAngular\WebCoreWithAngular\BackEnd\ClientApp\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,7 +276,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.BackEnd">
+  <component name="RunManager" selected=".NET Project.BackEnd">
+    <configuration name="BackEnd" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BackEnd/bin/Debug/netcoreapp2.1/BackEnd.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BackEnd" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BackEnd/BackEnd.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="LaunchSettings" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsoleTest" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleTest/bin/Debug/netcoreapp2.1/ConsoleTest.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -316,6 +327,7 @@
     <recent_temporary>
       <list>
         <item itemvalue=".NET Project.ConsoleTest" />
+        <item itemvalue=".NET Project.BackEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -332,11 +344,13 @@
       <workItem from="1554248387269" duration="1361000" />
       <workItem from="1554402784371" duration="1510000" />
       <workItem from="1554753264808" duration="7686000" />
+      <workItem from="1554765601185" duration="904000" />
+      <workItem from="1554766673482" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10557000" />
+    <option name="totallyTimeSpent" value="13290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,15 +364,14 @@
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1058" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14876477" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15306123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" weight="0.3295711" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3860045" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946293" weight="0.44264194" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,19 +380,20 @@
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Database Changes" order="11" sideWeight="0.49946293" visible="true" weight="0.32908458" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" weight="0.3295711" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.3295711" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50053704" side_tool="true" weight="0.6839729" />
-      <window_info anchor="bottom" id="Build" order="16" weight="0.53047407" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.21205099" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50053704" side_tool="true" visible="true" weight="0.32908458" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.36616454" />
       <window_info anchor="bottom" id="REST Client" order="17" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.32975295" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.33136413" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
@@ -420,13 +434,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -517,20 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/BackEnd.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/Models/Book.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <marker date="1554755857021" expanded="true" signature="24:196" ph="{...}" />
-            <marker date="1554755857021" expanded="true" signature="48:194" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/Models/RequestAuth.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -561,27 +554,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebCoreWithAngular.sln">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConsoleTest/ConsoleTest.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/Properties/launchSettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C7CF6354-FDBD-4D4A-8E1F-5A0D0DEB310C/dd/6c47637c/IConfiguration.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -614,12 +586,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/wwwroot/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="390">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding>
-            <marker date="1554756566853" expanded="true" signature="6:414" ph="..." />
+            <marker date="1554756566853" expanded="false" signature="6:414" ph="..." />
             <marker date="1554756566853" expanded="true" signature="433:3072" ph="{...}" />
             <marker date="1554756566853" expanded="true" signature="460:3070" ph="{...}" />
             <marker date="1554756566853" expanded="true" signature="519:582" ph="{...}" />
@@ -637,12 +612,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/BackEnd.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/Controllers/BooksController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="520">
           <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
-            <marker date="1554762961098" expanded="true" signature="6:129" ph="..." />
+            <marker date="1554762961098" expanded="false" signature="6:129" ph="..." />
             <marker date="1554762961098" expanded="true" signature="160:1433" ph="{...}" />
             <marker date="1554762961098" expanded="true" signature="240:1431" ph="{...}" />
             <marker date="1554762961098" expanded="true" signature="314:815" ph="{...}" />
@@ -653,15 +631,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/wwwroot/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/BackEnd/Models/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1554755857021" expanded="true" signature="24:196" ph="{...}" />
+            <marker date="1554755857021" expanded="true" signature="48:194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/Controllers/TokenController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="1092">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
           <folding>
-            <marker date="1554763056703" expanded="true" signature="6:362" ph="..." />
+            <marker date="1554763056703" expanded="false" signature="6:362" ph="..." />
             <marker date="1554763056703" expanded="true" signature="393:2353" ph="{...}" />
             <marker date="1554763056703" expanded="true" signature="473:2351" ph="{...}" />
             <marker date="1554763056703" expanded="true" signature="641:731" ph="{...}" />
@@ -671,6 +657,75 @@
             <marker date="1554763056703" expanded="true" signature="1446:1672" ph="{...}" />
             <marker date="1554763056703" expanded="true" signature="2039:2345" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleTest/ConsoleTest.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/root-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/user-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/user.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/ClientApp/src/app/user/services/token.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
